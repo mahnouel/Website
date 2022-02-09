@@ -8,6 +8,7 @@ type: aside
 
 Seit September 2015 arbeite ich für [3pc](https://3pc.de). Durch meine Hilfe sind dort unter anderem folgende Internetpräsenzen entstanden:
 
+- [Arsenal Berlin](https://www.arsenal-berlin.de/)
 - [Hanisauland](https://hanisauland.de/)
 - [Helmholtz Horizons](https://helmholtz-horizons.de/)
 - [Oper Frankfurt](https://oper-frankfurt.de/)
