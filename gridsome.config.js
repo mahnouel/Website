@@ -66,11 +66,5 @@ module.exports = {
         route: "/:lang/:year/til/:month:day/:slug"
       }
     },
-    {
-      use: `gridsome-plugin-netlify-cms`,
-      options: {
-        publicPath: `/admin`
-      }
-    }
   ]
 };
